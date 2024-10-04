@@ -7,13 +7,7 @@
 <br>
 
 # Nome do projeto - Um Mapa do Tesouro
-![um_mapa_do_tesouro.jpg](https://github.com/IolandaManzali/IolandaManzali/blob/main/um_mapa_do_tesouro.jpg)
 
-[![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Markdown Badge](https://img.shields.io/badge/markdown-1f48fa?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## Nome do grupo - Grupo 30
 
@@ -30,86 +24,7 @@
 ### Coordenador(a)
 - <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chaviato</a>
 
-
 ## 📜 Descrição
-Esse repositório contem o modelo de dados para o projeto da atividade "UM MAPA DO TESOURO", proposta na segunda fase do curso de  Inteligencia Artificial da FIAP.
-
-Essa atividade tem como objetivo a criação de um Modelo de Entidade Relacionamento (MER) e seu respectivo diagrama (DER) para a FarmaTech Solutions, utilizando a ferramenta Oracle SQL Data Modeler. 
-
-Para desenvolver essa atividade foram considerados os seguintes aspectos:
- * Identificação das informações relevantes, levando em consideração o padrão multicultor, sensoriamento para umidade, pH e NPK, com monitoramento contínuo em tempo real das culturas. 
- * Criação das entidades e atributos, além da identificação da cardinalidade e tipação dos atributos, aplicando o SQL Data Modeler.
-
-## Diagrama Entidade-Relacionamento (DER)
-
-![der.rev_final](https://github.com/IolandaManzali/IolandaManzali/blob/main/der.rev_final.jpg)
-
-### Entidades e Atributos
-
-* **IMOVEL RURAL:**
-  * CAR_IR (PK), NF_IR, LOC_IR, MED_IR
-    
-* **CULTURA:**
-  * ID_CULT (PK), N_CULT, REG_CULT, DT_PLANTIO, MED_CULT, CAR_IR (FK)
-
-* **SENSOR:**
-  * ID_SS (PK), T_SS, LOC_SS, DT_INST, CAR_IR (FK), IS_LS
-
-* **LEITURA DO SENSOR**
-  * ID_SL (PK), DT_LS, RES_LS, ID_CULT (FK), ID_SS (FK)
-
-## Modelo Entidade-Relacionamento (MER)
-
-![mer.rev_final](https://github.com/IolandaManzali/IolandaManzali/blob/main/mer.rev_final.jpg)
-
- **Entidade IMOVEL RURAL:**
- ** Atributos:**
-  * CAR_IR: CHAR, 43 caracteres
-  * NF_IR: CHAR, 10 caracteres
-  * LOC_IR: NUMBER, 40 caracteres
-  * MED_IR: NUMBER, (6,2)
-    
-* **CULTURA:**
-  * ID_CULT: NUMBER, 10
-  * N_CULT: VARCHAR2, 7
-  * REG_CULT: VARCHAR, 30
-  * DT_PLANTIO: DATE
-  * MED_CULT: NUMBER, (6,2)
-  * CAR_IR: CHAR, 43
-
-* **SENSOR:**
-  * ID_SS: VARCHAR2, 10
-  * T_SS: VARCHAR2, 10
-  * LOC_SS: VARCHAR2, 30
-  * DT_INST: DATE
-  * CAR_IR: CHAR, 43
-  * ID_LS: NUMBER, 8 
-
-* **LEITURA DO SENSOR**
-  * ID_SL: NUMBER, 8
-  * DT_LS: DATE
-  * RES_LS: NUMBER, (6,2)
-  * ID_CULT: NUMBER, 10
-  * ID_SS: VARCHAR2, 10
-
-* **Legenda de Siglas**
-
-* **CAR_IR:** Cadastro Ambiental Rural do Imóvel Rural
-* **NF_IR:** Nome Fantasia do Imóvel Rural
-* **LOC_IR:** Localização geográfica do Imóvel Rural
-* **MED_IR:** Dimensao do imovel rural em hectares
-* **ID_CULT:** Codigo de identificaçao da cultura
-* **N_CULT:** Nome da planta (milho, soja ou café) 
-* **REG_CULT:** codigo do registro do cultivar no MAPA
-* **DT_PLANTIO:** data do plantio do cultivar
-* **MED_CULT:** dimensão da area de plantio por cultivar
-* **ID_SS:** codigo de identificação do sensor
-* **T_SS:** tipo de sensor (umidade, pH ou NPK)
-* **LOC_SS:** localização geografica do sensor
-* **DT_INST:** data da instalacao do sensor no talhão
-* **ID_LS:** codigo de identificção da leitura do sensor
-* **DT_LS:** registro da data E hora da leitura do sensor
-* **RES_LS:** registro do resultado da leitura do sensor 
 
 
 ## 📁 Estrutura de pastas
@@ -132,30 +47,6 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 ## 🔧 Como executar o código
 
-### Pré-requisitos
-
-Acesso ao software Oracle SQL Developer Data Modeler.
-
-### Acesso ao projeto
-
-Para acessar todo o conteudo do respositorio, incluindo arquivos de imagem utilize o comando abaixo pelo prompt Bash:
-
-  * git clone https://github.com/IolandaManzali/IolandaManzali.git
-
-Para baixar o arquivo desejado, digite o comando baixo no prompt do Bash ou curl:
-
-Bash 
-  * wget https://raw.githubusercontent.com/IolandaManzali/IolandaManzali/main/nome_do_arquivo.jpg
-
-curl
-  * url -O https://raw.githubusercontent.com/IolandaManzali/IolandaManzali/main/nome_do_arquivo.jpg
-
-Para visualizar o arquivo diretamente no browser
-
-  * abra o link abaixo em seu navegador https://github.com/IolandaManzali/IolandaManzali/blob/main/nome_do_arquivo_ou_repositorio
-    
-Obs: a criação do banco de dados ainda está em andamento. Disponibilizado somente a modelagem (logica e relacional)
-
 
 ## 🗃 Histórico de lançamentos
 
@@ -169,23 +60,7 @@ Obs: a criação do banco de dados ainda está em andamento. Disponibilizado som
     * 
 * 0.1.0 - 04/10/2024
     *
-## Referências
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- 
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- 
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- 
- - [Badges4-README](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file)
- 
- - [Badges](https://shields.io/badges/git-hub-tag) 
-
-## Recursos Adicionais
-
-Shields.io: https://shields.io/
-
-Markdown Guide: https://www.markdownguide.org/
 
 ## 📋 Licença
 
