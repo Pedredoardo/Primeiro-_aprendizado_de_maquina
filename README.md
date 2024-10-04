@@ -9,6 +9,12 @@
 # Nome do projeto - Um Mapa do Tesouro
 ![um_mapa_do_tesouro.jpg](https://github.com/IolandaManzali/IolandaManzali/blob/main/um_mapa_do_tesouro.jpg)
 
+[![Versão](https://img.shields.io/badge/version-1.0.0-blue)](https://shields.io/badges)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Markdown Badge](https://img.shields.io/badge/markdown-1f48fa?style=for-the-badge&logo=markdown&logoColor=white)
+
 ## Nome do grupo - Grupo 30
 
 ## 👨‍🎓 Integrantes: 
@@ -163,6 +169,23 @@ Obs: a criação do banco de dados ainda está em andamento. Disponibilizado som
     * 
 * 0.1.0 - 04/10/2024
     *
+## Referências
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ 
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ 
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ 
+ - [Badges4-README](https://github.com/alexandresanlim/Badges4-README.md-Profile?tab=readme-ov-file)
+ 
+ - [Badges](https://shields.io/badges/git-hub-tag) 
+
+## Recursos Adicionais
+
+Shields.io: https://shields.io/
+
+Markdown Guide: https://www.markdownguide.org/
 
 ## 📋 Licença
 
