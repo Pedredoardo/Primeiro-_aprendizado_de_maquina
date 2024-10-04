@@ -161,7 +161,7 @@ Obs: a criação do banco de dados ainda está em andamento. Disponibilizado som
     * 
 * 0.2.0 - XX/XX/2024
     * 
-* 0.1.0 - XX/XX/2024
+* 0.1.0 - 04/10/2024
     *
 
 ## 📋 Licença
