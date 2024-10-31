@@ -6,10 +6,10 @@
 
 <br>
 
-# Nome do projeto - Um Mapa do Tesouro
+# Nome do projeto - Sprint 1 Solubio
 
 
-## Nome do grupo - Grupo 30
+## Nome do grupo - Grupo 05
 
 ## 👨‍🎓 Integrantes: 
 - <a href="https://www.linkedin.com/in/hilmar-marques-358672161">Hilmar Gomes Marques da Silva</a>
@@ -58,8 +58,13 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
     * 
 * 0.2.0 - XX/XX/2024
     * 
-* 0.1.0 - 04/10/2024
+* 0.1.0 - 31/10/2024
     *
+
+
+## 🧑‍💻 Desenvolvedores
+
+![grupo](https://github.com/IolandaManzali/decolando_com-_ciencia_de_dados_grupo21/blob/main/assets/grupo_fiap.jpg)
 
 
 ## 📋 Licença
