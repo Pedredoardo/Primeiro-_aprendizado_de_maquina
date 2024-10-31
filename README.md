@@ -8,7 +8,7 @@
 
 # Nome do projeto - Sprint 1 Solubio
 
-![capa](https://github.com/IolandaManzali/SprintSB/blob/main/assets/Designer (10).jpeg)
+![capa](https://github.com/IolandaManzali/SprintSB/blob/main/assets/Designer.jpeg)
 
 
 ## Nome do grupo - Grupo 05
