@@ -49,7 +49,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
    ### Nomeie as entidades e seus relacionamentos para o chatbot scriptado utilizando  icnes de box ou texto 
    
-   ### Selecione os icones que representarão as entidades clicando no campo "procurar formatos" no canto superior esqierdo da tela e identifique cada entidade com o rseu respectivo nome
+   ### Selecione os icones que representarão as entidades clicando no campo "procurar formatos" no canto superior esquerdo da tela e identifique cada entidade com o seu respectivo nome
 
    ### Insira os relacionamentos entre as entidades, observando a origem e destino dos relacionamentos
 
