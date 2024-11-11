@@ -1,1 +1,1 @@
-Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
+arquivo draw.io e pdf com texto exlplicativo sobre o projeto.
