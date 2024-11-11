@@ -57,7 +57,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
    ### Informe o ppapel de cada entidade no modelo 
 
-   
+  ![modelo](https://github.com/IolandaManzali/SprintSB/blob/main/assets/CHATBOTFARMATECH.jpg) 
    
 
 ## 🗃 Histórico de lançamentos
