@@ -33,22 +33,32 @@
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
+- <b>.github</b>: arquivos de configuração específicos do GitHub.
 
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
+- <b>assets</b>: imagens utilizadas no readme.
 
-- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
+- <b>config</b>: arquivo draw.io e pdf explicativo do projeto
 
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
+- <b>src</b>: codigo do arquivo draw.io em xml.
 
-- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
+- <b>README.md</b>: guia e explicação geral sobre o projeto
 
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
+## 🔧 Como executar o projeto
 
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+   ### Acesse o programa draw.io atraves da url https://app.diagrams.net/
 
-## 🔧 Como executar o código
+   ### Nomeie as entidades e seus relacionamentos para o chatbot scriptado utilizando  icnes de box ou 
+   texto 
+   
+   ### Selecione os icones que representarão as entidades clicando no campo "procurar formatos" no 
+   canto superior esqierdo da tela e identifique cada entidade com o rseu respectivo nome
 
+   ### Insira os relacionamentos entre as entidades, observando a origem e destino dos relacionamentos
+
+   ### Informe o ppapel de cada entidade no modelo 
+
+   
+   
 
 ## 🗃 Histórico de lançamentos
 
@@ -60,7 +70,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
     * 
 * 0.2.0 - XX/XX/2024
     * 
-* 0.1.0 - 31/10/2024
+* 0.1.0 - 11/11/2024
     *
 
 
