@@ -32,7 +32,9 @@
 
 ### Acesse o Google Colab através do site 'https://colab.research.google.com/' utilizando o Jupyter Notebook para codificação.
 
-### Crie o código em Python e Markdown em células intercaladas para organização e descrição do código.
+### Crie o código em Python e Markdown em células intercaladas para organização e descrição do código
+
+         * Analise exploratoria descritiva com Medidas de Tendência Central e de Dispersão (desvio padrão) de 5 cinco cultivos selecionados do dataset (arroz, laranja, algodão, mamão e )
 
 ### Importe as Bibliotecas Python  'Numpy', 'Seaborn', 'Pandas', 'Scikit-learn' e 'Matplotlib' para a criação dos gráficos e tabelas.
 
