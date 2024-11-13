@@ -8,7 +8,7 @@
 
 # Nome do projeto - A Primeira Técnica de Aprendizado de Máquina
 
-![capa](https://github.com/IolandaManzali/SprintSB/blob/main/assets/Designer.jpeg)
+![capa](https://github.com/Pedredoardo/Primeiro-_aprendizado_de_maquina/tree/main/assets)
 
 
 ## Nome do grupo - Grupo 05
