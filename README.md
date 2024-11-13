@@ -32,13 +32,15 @@
 
 ### Acesse o Google Colab através do site 'https://colab.research.google.com/' utilizando o Jupyter Notebook para codificação.
 
+### Realize o tratamento e/ou limpeza, se necessário, de dados nulos, ausentes e duplicados.
+
 ### Crie o código em Python e Markdown em células intercaladas para organização e descrição do código
 
-         * Analise exploratoria descritiva com Medidas de Tendência Central e de Dispersão (desvio padrão) de 5 cinco cultivos selecionados do dataset (arroz, laranja, algodão, mamão e )
+         * Analise exploratória descritiva com Medidas de Tendência Central e de Dispersão (desvio padrão) de quatro cultivos selecionados do dataset (arroz, laranja, algodão e mamão)
+         
+### Importe as Bibliotecas Python  'Numpy', 'Seaborn', 'Pandas', 'Scikit-learn' e 'Matplotlib' para a criação dos gráficos, tabelas e matrizes.
 
-### Importe as Bibliotecas Python  'Numpy', 'Seaborn', 'Pandas', 'Scikit-learn' e 'Matplotlib' para a criação dos gráficos e tabelas.
-
-### Crie  e treine cinco modelos preditivos baseados em IA e MAchine Learning utilizando Python. No projeto em questão foram selecionados os modelos de Regressão Logística, KNN, SVM, Árvove de Decisão, Floresta Aleatória.
+### Crie e treine cinco modelos preditivos baseados em IA e MAchine Learning utilizando Python. No projeto em questão foram selecionados os modelos de Regressão Logística, KNN, SVM, Árvove de Decisão, Floresta Aleatória.
 
 
 ## 📁 Estrutura de pastas
