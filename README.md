@@ -6,7 +6,7 @@
 
 <br>
 
-# Nome do projeto - Sprint 1 Solubio
+# Nome do projeto - A primeira técnica de aprendizado de máquina
 
 ![capa](https://github.com/IolandaManzali/SprintSB/blob/main/assets/Designer.jpeg)
 
@@ -27,6 +27,16 @@
 - <a href="https://www.linkedin.com/company/inova-fusca">Andre Godoi Chaviato</a>
 
 ## 📜 Descrição
+
+### Acesse o site da FIAP e faça o download do arquivo Atividade_Cap_14_produtos_agricolas.csv e salve no diretório de sua preferência.
+
+### Acesse o google colab através do site https://colab.research.google.com/ utilizando o jupyter notebook para codificação.
+
+### Criação do código em Python intercalado com células em Markdown para organização do código.
+
+### Importar as bibliotecas Numpy, Seaborn, Pandas, Scikit-learn, Matplotlib na criação dos gráficos e tabelas.
+
+### Criação dos cinco modelos preditivos (Regressão Logística, KNN, SVM, Árvove de decisão, Floresta aleatória)
 
 
 ## 📁 Estrutura de pastas
