@@ -6,7 +6,7 @@
 
 <br>
 
-# Nome do projeto - A primeira técnica de aprendizado de máquina
+# Nome do projeto - A Primeira Técnica de Aprendizado de Máquina
 
 ![capa](https://github.com/IolandaManzali/SprintSB/blob/main/assets/Designer.jpeg)
 
@@ -28,15 +28,15 @@
 
 ## 📜 Descrição
 
-### Acesse o site da FIAP e faça o download do arquivo Atividade_Cap_14_produtos_agricolas.csv e salve no diretório de sua preferência.
+### Acesse o site da FIAP e faça o download do arquivo 'Atividade_Cap_14_produtos_agricolas.csv' e salve no diretório de sua preferência.
 
-### Acesse o google colab através do site https://colab.research.google.com/ utilizando o jupyter notebook para codificação.
+### Acesse o Google Colab através do site 'https://colab.research.google.com/' utilizando o Jupyter Notebook para codificação.
 
-### Criação do código em Python intercalado com células em Markdown para organização do código.
+### Crie o código em Python e Markdown em células intercaladas para organização e descrição do código.
 
-### Importar as bibliotecas Numpy, Seaborn, Pandas, Scikit-learn, Matplotlib na criação dos gráficos e tabelas.
+### Importe as Bibliotecas Python  'Numpy', 'Seaborn', 'Pandas', 'Scikit-learn' e 'Matplotlib' para a criação dos gráficos e tabelas.
 
-### Criação dos cinco modelos preditivos (Regressão Logística, KNN, SVM, Árvove de decisão, Floresta aleatória)
+### Crie  e treine cinco modelos preditivos baseados em IA e MAchine Learning utilizando Python. No projeto em questão foram selecionados os modelos de Regressão Logística, KNN, SVM, Árvove de Decisão, Floresta Aleatória.
 
 
 ## 📁 Estrutura de pastas
@@ -47,7 +47,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>assets</b>: imagens utilizadas no readme.
 
-- <b>config</b>: arquivo draw.io e pdf explicativo do projeto
+- <b>document</b>: arquivo .csv gerado pelo notebook Jupyter 
 
 - <b>src</b>: codigo do arquivo draw.io em xml.
 
