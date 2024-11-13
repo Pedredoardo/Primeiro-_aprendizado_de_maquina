@@ -49,24 +49,10 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 - <b>document</b>: arquivo .csv gerado pelo notebook Jupyter 
 
-- <b>src</b>: codigo do arquivo draw.io em xml.
+- <b>src</b>: arquivo .ipynb
 
 - <b>README.md</b>: guia e explicação geral sobre o projeto
 
-## 🔧 Como executar o projeto
-
-   ### Acesse o programa draw.io atraves da url https://app.diagrams.net/
-
-   ### Nomeie as entidades e seus relacionamentos para o chatbot scriptado utilizando  icnes de box ou texto 
-   
-   ### Selecione os icones que representarão as entidades clicando no campo "procurar formatos" no canto superior esquerdo da tela e identifique cada entidade com o seu respectivo nome
-
-   ### Insira os relacionamentos entre as entidades, observando a origem e destino dos relacionamentos
-
-   ### Informe a funcionalidade de cada entidade irá desemprenhar no modelo 
-
-  ![modelo](https://github.com/IolandaManzali/SprintSB/blob/main/assets/CHATBOTFARMATECH.jpg) 
-   
 
 ## 🗃 Histórico de lançamentos
 
@@ -78,7 +64,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
     * 
 * 0.2.0 - XX/XX/2024
     * 
-* 0.1.0 - 11/11/2024
+* 0.1.0 - 13/11/2024
     *
 
 
