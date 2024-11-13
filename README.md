@@ -36,7 +36,7 @@
 
 ### Crie o código em Python e Markdown em células intercaladas para organização e descrição do código
 
-         * Analise exploratória descritiva com Medidas de Tendência Central e de Dispersão (desvio padrão) de quatro cultivos selecionados do dataset (arroz, laranja, algodão e mamão)
+#### Analise exploratória descritiva com Medidas de Tendência Central e de Dispersão (desvio padrão) de quatro cultivos selecionados do dataset (arroz, laranja, algodão e mamão)
          
 ### Importe as Bibliotecas Python  'Numpy', 'Seaborn', 'Pandas', 'Scikit-learn' e 'Matplotlib' para a criação dos gráficos, tabelas e matrizes.
 
