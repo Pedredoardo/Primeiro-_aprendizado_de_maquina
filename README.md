@@ -8,7 +8,7 @@
 
 # Nome do projeto - A Primeira Técnica de Aprendizado de Máquina
 
-![capa](https://github.com/Pedredoardo/Primeiro-_aprendizado_de_maquina/blob/main/assets/Designer (16).jpeg)
+![capa](https://github.com/Pedredoardo/Primeiro-_aprendizado_de_maquina/blob/main/assets/fase3fiap.jpeg)
 
 
 ## Nome do grupo - Grupo 04
